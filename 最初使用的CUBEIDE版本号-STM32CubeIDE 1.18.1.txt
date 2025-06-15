@@ -1,0 +1,1 @@
+STM32CubeIDE 1.18.1

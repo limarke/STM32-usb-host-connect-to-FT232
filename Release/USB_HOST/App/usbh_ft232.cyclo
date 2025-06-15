@@ -1,0 +1,12 @@
+../USB_HOST/App/usbh_ft232.c:48:27:FT232_Init	9
+../USB_HOST/App/usbh_ft232.c:134:27:FT232_DeInit	4
+../USB_HOST/App/usbh_ft232.c:161:27:FT232_Process	9
+../USB_HOST/App/usbh_ft232.c:215:27:FT232_SOFProcess	1
+../USB_HOST/App/usbh_ft232.c:220:27:FT232_Requests	1
+../USB_HOST/App/usbh_ft232.c:227:27:FT232_Reset	2
+../USB_HOST/App/usbh_ft232.c:249:27:FT232_SetBaudRate	2
+../USB_HOST/App/usbh_ft232.c:271:27:FT232_SetDataCharacteristics	10
+../USB_HOST/App/usbh_ft232.c:312:17:FT232_CalcDivisor	4
+../USB_HOST/App/usbh_ft232.c:330:20:USBH_FT232_SetConfig	4
+../USB_HOST/App/usbh_ft232.c:349:20:USBH_FT232_Transmit	5
+../USB_HOST/App/usbh_ft232.c:362:20:USBH_FT232_Receive	5

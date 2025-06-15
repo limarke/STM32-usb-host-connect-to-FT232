@@ -1,0 +1,12 @@
+../Drivers/CMSIS/Include/core_cm4.h:1672:26:__NVIC_GetPriorityGrouping	1
+../Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Drivers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	2
+../Drivers/CMSIS/Include/core_cm4.h:1861:26:NVIC_EncodePriority	2
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:1116:22:LL_TIM_EnableCounter	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:1307:22:LL_TIM_DisableARRPreload	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:2694:22:LL_TIM_SetClockSource	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:2740:22:LL_TIM_SetTriggerOutput	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:2806:22:LL_TIM_DisableMasterSlaveMode	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:3460:22:LL_TIM_EnableIT_UPDATE	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_bus.h:1185:22:LL_APB1_GRP1_EnableClock	1
+../Core/Src/tim.c:28:6:MX_TIM3_Init	1
